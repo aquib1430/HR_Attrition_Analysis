@@ -38,6 +38,6 @@ Key insights derived from the dashboard.
 Actionable suggestions based on the data.
 
 ## 📬 Contact
-Created by ** Aquib Adhikari **  
+Created by *Aquib Adhikari*
 📧 Email: aquibadhikari4@gmail.com 
 📍 Location: Mumbai, India 
